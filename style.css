@@ -72,6 +72,9 @@ footer img {
 }
 
 footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
     width: 100%;
     padding: 1rem;
     background-color: #59D9A1;
